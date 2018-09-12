@@ -1,0 +1,17 @@
+Dear Sir,
+
+This is in regard to the project assigned to us during the NASSCOM Training. We are glad to inform you that we have completed our project on Online Student Attendance System.
+
+Please refer to the attached files containing:
+
+1. Source Code (Online Student Attendance System.zip)
+2. Templates
+3. Software Requirement Specification document
+
+Team Members:
+Manu Rastogi (ECE Branch- 1503031088) 
+Mohit Kumar Singh (IT Branch- 1503013054)
+Tanushree Upreti (IT Branch- 1503013111)
+Vishal Saini (IT Branch- 1503013114)
+
+College Name: Inderprastha Engineering College, Sahibabad
